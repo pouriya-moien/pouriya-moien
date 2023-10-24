@@ -4,12 +4,12 @@
 const res = {
     status: 200,
     body: {
-        firstName: "pouriya",
-        lastName: "moein",
+        firstName: "Pouriya",
+        lastName: "Moein",
         university: "Islamic Azad University Najafabad Branch",
-        location: "isfahan",
+        location: "Isfahan",
         expert: "Front-end",
-        fieldOfStudy: "software engineer student"
+        fieldOfStudy: "Software engineer student"
     }
 }
 ```
